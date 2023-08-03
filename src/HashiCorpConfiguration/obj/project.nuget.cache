@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "uFJKOz4BYxrZJ/OtnLyOtEATrrwpyEZMQaGLOn9CuwgaTzH1PxDJ36xMATeCEh5EYU9tEVVgPG/DZxSy4tyYzA==",
+  "success": true,
+  "projectFilePath": "E:\\Programs\\MyProgram\\src\\HashiCorpConfiguration\\HashiCorpConfiguration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\vaultsharp\\1.7.0.4\\vaultsharp.1.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
